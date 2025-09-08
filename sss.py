@@ -13,3 +13,4 @@ while dan >= 1:
         print("오답입니다.")
         print("정답을 다시 입력해주세요.")
         answer = int(input(f"{a} * {b} = "))
+        
